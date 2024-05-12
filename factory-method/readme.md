@@ -19,7 +19,7 @@ The client class (Main) will use interfaces to call methods, and the implementat
 ## Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Class Diagram](https://github.com/aditya-chaudhari/design-patterns/blob/factory-method/factory-method/images/classDiagram.png)
 
 
 ## Source
